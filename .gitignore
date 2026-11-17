@@ -1,0 +1,29 @@
+# PlatformIO build directories and dependencies
+.pio/
+**/.pio/
+.pioenvs/
+**/.pioenvs/
+.piolibdeps/
+**/.piolibdeps/
+
+# IDE configurations
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+
+# Jupyter / Checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache & virtual environments
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment files and credentials
+.env*
+*.log
+.DS_Store
